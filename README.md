@@ -26,7 +26,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Contact Management](#contact-management)
 - [Contract Management](#contract-management)
 - [Contributions](#contributions)
-- [GroupDocs](#GroupDocs add-on's)
+- [GroupDocs](#groupdocs-add-ons)
 - [Cool Gadgets](#cool-gadgets)
 - [Document Creation](#document-creation)
 - [Electronic Signatures](#electronic-signatures)
