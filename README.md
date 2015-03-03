@@ -26,9 +26,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Contact Management](#contact-management)
 - [Contract Management](#contract-management)
 - [Contributions](#contributions)
-- [GroupDocs](#groupdocs-add-ons)
 - [Cool Gadgets](#cool-gadgets)
-- [Document Creation](#document-creation)
+- [Document Creation & Management](#document-creation--management)
 - [Electronic Signatures](#electronic-signatures)
 - [Email](#email)
 - [Email Marketing](#email-marketing)
@@ -92,8 +91,6 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Contract Management
 
 ## Contributions
-### GroupDocs add-on's
-
 
 ## Cool Gadgets
 * [tagMe - organize your data](https://www.sugaroutfitters.com/addons/tagme) on SugarOutfitters.com. 
